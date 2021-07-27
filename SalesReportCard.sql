@@ -572,7 +572,7 @@ delete cte where RN > 1
 
 --Bring It all Together
 --Aggregates all AE Phone/Pipline KPIs and Expectation scores calculated above
---Tank the teams in using the headcount and Expectation scores in Power BI
+--Tank the teams in using the headcount and Expectation scores to load into PowerBI
 
 select a.*
 
